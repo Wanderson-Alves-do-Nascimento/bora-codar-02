@@ -1,98 +1,45 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Bora Codar 02" />
-
-  &#xa0;
-
-  <!-- <a href="https://boracodar02.netlify.app">Demo</a> -->
-</div>
-
-<h1 align="center">Bora Codar 02</h1>
+<h1 align="center"> #BORACODAR-02 </h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/bora-codar-02?color=56BEB8" /> -->
+  Projeto da comunidade Rocketseat onde semanalmente são lançados desafios semanalmente de layouts para mantermos a prática em dia.
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Bora Codar 02 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-## :dart: About ##
+<p align="center">
+  <img alt="Bora Codar 2" src=".github/preview.jpg" width="100%">
+</p>
 
-Describe your project
+## 🚀 Tecnologias
 
-## :sparkles: Features ##
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-## :rocket: Technologies ##
+## 💻 Projeto
 
-The following tools were used in this project:
+O DevLinks é um agregador de links para uso em cartão de visita online.
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+## 🔖 Layout
 
-## :white_check_mark: Requirements ##
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050984449538256). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+## :memo: Licença
 
-## :checkered_flag: Starting ##
+Esse projeto está sob a licença MIT.
 
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/bora-codar-02
-
-# Access
-$ cd bora-codar-02
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
+---
