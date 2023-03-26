@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Bora Codar 2" src="./assets/preview.jpg" width="100%">
+  <img alt="Bora Codar 2" src="./assets/blob/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para uso em cartão de visita online.
+Nesse desafio criamos um card de um produto com uma imagem que quando clicada, se torna um GIF com rotação mostrando todos os ângulos do produto.
 
 ## 🔖 Layout
 
