@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Bora Codar 2" src="./assets/blob/preview.jpg" width="100%">
+  <img alt="Bora Codar 2" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
